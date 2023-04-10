@@ -1,0 +1,1 @@
+Ontologies are like a big dictionary with lots of words. They are used by computers to help them understand what words mean and how they are all connected. For example, an ontology might tell a computer that a dog is an animal and that an animal has four legs.

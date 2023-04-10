@@ -1,0 +1,1 @@
+Explainable AI (XAI) is a field of artificial intelligence that seeks to make machine learning models more transparent and understandable to humans. XAI focuses on developing algorithms and techniques that can explain or visualize the inner workings of a complex model and make it easier to understand why the model made specific decisions.
